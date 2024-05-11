@@ -1,12 +1,9 @@
-### Hi there 👋
-
-**Welcome to my GitHub profile!**
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=2500&pause=350&color=27C322&random=false&width=435&lines=Hi%2C+there!;I'm+Sandra+Kanna;student+at+42+School" alt="Typing SVG" />
+</h1>
 
 🔭 **What I'm Currently Working On:**  
-After 11 years in B2B marketing for tech-centric industries like industrial printing and e-commerce, I've taken a bold step into software development. I'm currently immersed in the 42 school curriculum, honing my skills in C and shell scripting.
-
-🌱 **I’m Currently Learning:**  
-My journey at 42 has been thrilling, with projects ranging from low-level programming to complex algorithms. I also competed in the regional AWS Deep Racer competition in Strasbourg, February 2024, where my algorithm secured 2nd place!
+After 11 years in B2B marketing for tech-centric industries like industrial printing and e-commerce, I've taken a bold step into software development. I'm currently immersed in the 42 school curriculum, honing my skills in C and shell scripting. Current project: minishell.
 
 👯 **Looking to Collaborate On:**  
 I'm keen to collaborate on AI-driven open-source projects, especially those aimed at educational tools or improving lives. If you're working on something where my marketing and user experience insights can add value, let's connect!
@@ -26,3 +23,18 @@ Languages have always fascinated me. From my native Spanish to English, Portugue
 ---
 
 **My GitHub journey is just beginning, and I am excited to share it with you. Follow along as I transition from a seasoned marketing professional to a passionate developer.**
+<!-- 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SandraKanna/SandraKanna/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+
+<img
+  align="center"
+  src="https://github-readme-stats.vercel.app/api/?username=SandraKanna&theme=dark"
+>/
+-->
