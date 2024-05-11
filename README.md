@@ -12,7 +12,7 @@ My journey at 42 has been thrilling, with projects ranging from low-level progra
 I'm keen to collaborate on AI-driven open-source projects, especially those aimed at educational tools or improving lives. If you're working on something where my marketing and user experience insights can add value, let's connect!
 
 🤔 **Seeking Help With:**  
-I'm delving into AI and its applications in real-world problems, especially in educational or healthcare contexts. I'd greatly appreciate your insights and guidance! Additionally, I'm exploring mobile development and advanced Dart projects. If you have expertise in Flutter or Dart, your advice would be invaluable!
+I'm delving into AI and its applications in real-world problems, I'd greatly appreciate some expert insights and guidance especially in educational or healthcare contexts. Additionally, I'm exploring mobile development and advanced Dart projects. If you have expertise in Flutter or Dart, your advice would be invaluable!
 
 💬 **Ask Me About:**  
 Transitioning from marketing to tech, understanding user needs, or translating complex tech into market-ready solutions.
