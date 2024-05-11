@@ -23,7 +23,7 @@ Languages have always fascinated me. From my native Spanish to English, Portugue
 ---
 
 **My GitHub journey is just beginning, and I am excited to share it with you. Follow along as I transition from a seasoned marketing professional to a passionate developer.**
-
+<!-- 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
@@ -31,7 +31,7 @@ Languages have always fascinated me. From my native Spanish to English, Portugue
   <br/><br/><br/>
 </div>
 
-<!-- 
+
 <img
   align="center"
   src="https://github-readme-stats.vercel.app/api/?username=SandraKanna&theme=dark"
