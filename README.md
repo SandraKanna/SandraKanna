@@ -20,7 +20,7 @@ Transitioning from marketing to tech, understanding user needs, or translating c
 📫 **How to Reach Me:**  
 The best way to reach me is through [my LinkedIn profile](https://www.linkedin.com/in/sandrakanna). I'm always open to discussing tech, career shifts, and potential collaborations.
 
-⚡ **Fun Fact:**
+⚡ **Fun Fact:**  
 Languages have always fascinated me. From my native Spanish to English, Portuguese, and French, each language has enriched my work and travel experiences. Now, I'm translating this passion into programming languages. Each new programming language is like a new culture to explore, offering unique ways to communicate and solve problems. I'm thrilled by the endless possibilities in tech, mirroring the excitement I felt learning my first foreign language.
 
 ---
