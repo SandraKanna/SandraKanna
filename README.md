@@ -23,16 +23,15 @@ Languages have always fascinated me. From my native Spanish to English, Portugue
 ---
 
 **My GitHub journey is just beginning, and I am excited to share it with you. Follow along as I transition from a seasoned marketing professional to a passionate developer.**
-<!-- 
+
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SandraKanna/SandraKanna/output/github-contribution-grid-snake.svg" />
-  
+  <img alt="My contributions" src="https://github.com/SandraKanna/SandraKanna/blob/output/github-contribution-grid-snake2.svg?raw=true" />
   <br/><br/><br/>
 </div>
 
-
+<!-- 
 <img
   align="center"
   src="https://github-readme-stats.vercel.app/api/?username=SandraKanna&theme=dark"
