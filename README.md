@@ -34,7 +34,7 @@ Transitioning from marketing to tech, understanding user needs, or translating c
 The best way to reach me is through [my LinkedIn profile](https://www.linkedin.com/in/sandrakanna). I'm always open to discussing tech, career shifts, and potential collaborations.
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 My latest contributions 🐍</h2>
   <br>
   <img src="https://raw.githubusercontent.com/SandraKanna/SandraKanna/output/github-contribution-grid-snake.svg" />
   
