@@ -14,8 +14,6 @@ With 11 years of B2B marketing experience in tech-driven industries like industr
 <br/>
 <hr/>
 
----
-
 <h2 align="center">🔎 Currently exploring 🔍</h2>
 <br/>
 <div align="center">
