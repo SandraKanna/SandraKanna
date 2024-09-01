@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=2500&pause=350&color=27C322&random=false&width=435&lines=Hi%2C+there!;I'm+Sandra+Kanna;student+at+42+School" alt="Typing SVG" />
 </h1>
 
-After 11 years in B2B marketing for tech-centric industries like industrial printing and e-commerce, I've taken a bold step into software development. I'm currently immersed in the 42 school curriculum, honing my skills in C and shell scripting.
+With 11 years of B2B marketing experience in tech-driven industries like industrial printing and e-commerce, I’ve embarked on a journey to bridge the gap between marketing and technology. I’ve completed C programming and shell scripting projects at 42 and am now diving into C++ and advanced topics like 3D rendering and full-stack development. While my focus is on mastering these technical skills, I’m eager to apply my combined expertise in a dynamic tech environment
 
 ---
 
@@ -14,15 +14,12 @@ After 11 years in B2B marketing for tech-centric industries like industrial prin
 <br/>
 <hr/>
 
-**👯Looking to Collaborate On:**  
-AI-driven open-source projects. I'm delving into AI and its applications in real-world problems, I'd greatly appreciate some expert insights and guidance especially in educational or healthcare contexts. If you have expertise in these fields, let's connect!
-
 ---
 
 <h2 align="center">🔎 Currently exploring 🔍</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,dart,flutter,aws" /><br>
+    <img src="https://skillicons.dev/icons?i=python,numpy,cpp" /><br>
 </div>
 <br/>
 <hr/>
@@ -45,10 +42,6 @@ The best way to reach me is through [my LinkedIn profile](https://www.linkedin.c
 ⚡ **Fun Fact:**  
 Languages have always fascinated me. From my native Spanish to English, Portuguese, and French, each language has enriched my work and travel experiences. Now, I'm translating this passion into programming languages. Each new programming language is like a new culture to explore, offering unique ways to communicate and solve problems. I'm thrilled by the endless possibilities in tech, mirroring the excitement I felt learning my first foreign language.
 
----
-<div align="center">
-**My GitHub journey is just beginning, and I am excited to share it with you. Follow along as I transition from a seasoned marketing professional to a passionate developer.**
-</div>
 <!-- 
 <img
   align="center"
