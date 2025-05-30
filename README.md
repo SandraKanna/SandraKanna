@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=2500&pause=350&color=27C322&random=false&width=435&lines=Hi%2C+there!;I'm+Sandra+Kanna;student+at+42+School" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=2500&pause=350&color=27C322&random=false&width=435&lines=Hi%2C+there!;I'm+SKanna;student+at+42+School" alt="Typing SVG" />
 </h1>
 
 With 11 years of B2B marketing experience in tech-driven industries like industrial printing and e-commerce, I’ve embarked on a journey to bridge the gap between marketing and technology. I’ve completed C programming and shell scripting projects at 42 and am now diving into C++ and advanced topics like 3D rendering and full-stack development. While my focus is on mastering these technical skills, I’m eager to apply my combined expertise in a dynamic tech environment
