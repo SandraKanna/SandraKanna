@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=2500&pause=350&color=27C322&random=false&width=435&lines=Hi%2C+there!;I'm+SKanna;student+at+42+School" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=2500&pause=350&color=27C322&random=false&width=435&lines=Hi%2C+there!;I'm+SKanna;42+Alumni+%26;Full-stack+Developer" alt="Typing SVG" />
 </h1>
 
 After 11 years in B2B marketing for tech industries, I’ve made the leap into full-time software development. I completed the 42 core curriculum, working on projects ranging from low-level C programming and algorithms to 3D rendering and full-stack web apps. Now diving deeper into Fastify, Node.js, TypeScript, and modern web stacks, I’m eager to contribute to real-world projects and keep bridging creativity and technology.
