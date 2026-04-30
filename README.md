@@ -8,7 +8,7 @@ I'm looking to collaborate with engineering teams where product thinking, struct
 
 ---
 ### Currently working on
-- 🎨 **miMag** *(private)* — Platform turning 2D illustrations into interactive scenes. 
+- 🎨 **[skXp]([url](https://github.com/SandraKanna/skXp))** — Platform turning 2D illustrations into interactive scenes. 
   MCP server + React/PixiJS viewer.
 - 🧠 Deepening MCP architecture, agentic workflows, and editorial pipeline automation.
 
