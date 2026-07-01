@@ -2,25 +2,22 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=2500&pause=350&color=27C322&random=false&width=435&lines=Hi%2C+there!;I'm+SKanna;42+Alumni+%26;Software+Developer" alt="Typing SVG" />
 </h1>
 
-After 11 years in product and B2B marketing for tech industries, I made the leap into full-time software development through 42. I’m currently building miMag, a personal project exploring MCP (Model Context Protocol) and LLM-augmented development workflows.
-
-I'm looking to collaborate with engineering teams where product thinking, structured LLM workflows, and end-to-end ownership are valued.
+After 11 years in product and B2B marketing for tech industries, I made the leap into full-time software development through 42. 
+I'm looking to collaborate with engineering teams where product thinking, structured workflows, and end-to-end ownership are valued.
 
 ---
 ### Currently working on
-- 🎨 **[skXp](https://github.com/SandraKanna/skXp)** — Platform turning 2D illustrations into interactive scenes. 
-  MCP server + React/PixiJS viewer.
-- 🧠 Deepening MCP architecture, agentic workflows, and editorial pipeline automation.
+- 🏓 **[MyPong](https://github.com/SandraKanna/MyPong)** — real-time multiplayer Pong inspired by 42's Transcendence project. SPA with a microservices architecture: REST + WebSocket gateways, JWT auth, Dockerized backend services, PostgreSQL. CI/CD pipeline with GitHub Actions (lint, typecheck, test, and build on every PR). Built as a portfolio project with an emphasis on architecture decisions.
 
 ### Stack
-TypeScript · Node.js · React · PixiJS · MCP · Vite · Vitest
+Node.js · TypeScript · Fastify · Zustand · React · PostgreSQL · Docker · Nginx · WebSockets · JWT · GitHub Actions · Vitest
 
 ---
 
 <h2 align="left"> Tools </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,c,cpp,typescript,bash,figma,nginx,nodejs,sqlite,docker,Fastify" /><br/>
+    <img src="https://skillicons.dev/icons?i=vscode,github,c,cpp,typescript,nodejs,react,docker,postgres,nginx,bash,githubactions,fastify" /><br/>
 </div>
 <br/>
 <hr/>
