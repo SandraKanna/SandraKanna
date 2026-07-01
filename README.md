@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=2500&pause=350&color=27C322&random=false&width=435&lines=Hi%2C+there!;I'm+SKanna;42+Alumni+%26;Software+Developer" alt="Typing SVG" />
 </h1>
 
-After +10 years in product and B2B marketing for tech industries, I made the leap into full-time software development through 42. 
+After 10+ years in product and B2B marketing for tech industries, I made the leap into full-time software development through 42. 
 I'm looking to collaborate with engineering teams where product thinking, structured workflows, and end-to-end ownership are valued.
 
 ---
