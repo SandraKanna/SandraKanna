@@ -1,17 +1,24 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=2500&pause=350&color=27C322&random=false&width=435&lines=Hi%2C+there!;I'm+SKanna;42+Alumni+%26;Software+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=2500&pause=350&color=27C322&random=false&width=435&lines=Hi%2C+there!;I'm+SKanna;42+Software+Developer" alt="Typing SVG" />
 </h1>
 
-After 10+ years in product and B2B marketing for tech industries, I made the leap into full-time software development through 42. 
-I'm looking to collaborate with engineering teams where product thinking, structured workflows, and end-to-end ownership are valued.
+After 10+ years in product and B2B marketing for tech industries, I decided to complement my business background with hands-on technical skills and become a full-time software developer through 42.
 
 ---
 ### Currently working on
-- 🏓 **[MyPong](https://github.com/SandraKanna/MyPong)** — rebuilding my 42 Transcendence project (real-time multiplayer Pong) with a stronger architecture and modern tools: dedicated API and WebSocket gateways, JWT auth, a React frontend, PostgreSQL, Dockerized microservices, unit tests and a CI/CD pipeline (GitHub Actions: lint, typecheck, test, build on every PR).
+🔧 **[cpp-pipeline-engine](https://github.com/SandraKanna/cpp-pipeline-engine)**: designing a modular C++20 library for data pipelines, built portfolio-first around software architecture: fluent builder API, CMake with namespaced targets, CI from the first commit. Currently starting to document foundational decisions (data model, error handling, execution model) as ADRs.
 
-### Stack
-- Node.js - TypeScript - Fastify - Zustand - PostgreSQL - Docker - Nginx - WebSockets - JWT - GitHub Actions - Vitest  
-- Also building: React (frontend fundamentals)
+**Stack**: C++20 - CMake - GitHub Actions - GoogleTest - GMock - Doxygen
+
+### Recently built
+🔧 **[Lidar_viz_module](https://github.com/SandraKanna/Lidar_viz_module)**: visualization layer for a LiDAR-based truck-loading optimization tool, built for Logistical (Tokyo).
+
+**Stack**: C++14 - Qt - VTK 
+
+🏓 **[MyPong](https://github.com/SandraKanna/MyPong)**: real-time multiplayer Pong with dedicated API and WebSocket gateways, JWT auth, a React frontend, PostgreSQL, Dockerized microservices, unit tests and a CI/CD pipeline (GitHub Actions: lint, typecheck, test, build on every PR).
+
+**Stack**: Node.js - TypeScript - Fastify - Zustand - PostgreSQL - Docker - Nginx - WebSockets - JWT - GitHub Actions - Vitest  - React (frontend fundamentals)
+
 ---
 
 <h2 align="left"> Tools </h2>
