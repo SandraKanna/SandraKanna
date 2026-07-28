@@ -15,7 +15,7 @@ After 10+ years in product and B2B marketing for tech industries, I decided to c
 
 **Stack**: C++14 - Qt - VTK 
 
-🏓 **[MyPong](https://github.com/SandraKanna/MyPong)**: real-time multiplayer Pong with dedicated API and WebSocket gateways, JWT auth, a React frontend, PostgreSQL, Dockerized microservices, unit tests and a CI/CD pipeline (GitHub Actions: lint, typecheck, test, build on every PR).
+🏓 **[MyPong](https://github.com/SandraKanna/MyPong)**: real-time multiplayer Pong with dedicated API and WebSocket gateways, JWT auth, a React frontend, PostgreSQL, Dockerized microservices, unit tests and a CI pipeline (GitHub Actions: lint, typecheck, test, build on every PR).
 
 **Stack**: Node.js - TypeScript - Fastify - Zustand - PostgreSQL - Docker - Nginx - WebSockets - JWT - GitHub Actions - Vitest  - React (frontend fundamentals)
 
