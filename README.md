@@ -6,9 +6,9 @@ After 10+ years in product and B2B marketing for tech industries, I decided to c
 
 ---
 ### Currently working on
-🔧 **[cpp-pipeline-engine](https://github.com/SandraKanna/cpp-pipeline-engine)**: designing a modular C++20 library for data pipelines, built portfolio-first around software architecture: fluent builder API, CMake with namespaced targets, CI from the first commit. Currently starting to document foundational decisions (data model, error handling, execution model) as ADRs.
+🔧 **[cpp-pipeline-engine](https://github.com/SandraKanna/cpp-pipeline-engine)**: building a modular C++20 library for data pipelines, built portfolio-first around software architecture: fluent builder API, CMake with namespaced targets, CI from the first commit. Data model (ADR-001 through ADR-004) accepted and implemented with unit tests; now moving on to the execution model decision.
 
-**Stack**: C++20 - CMake - GitHub Actions - GoogleTest - GMock - Doxygen
+**Current stack**: C++20 - CMake - GitHub Actions - GoogleTest - Sanitizers - Clang-format
 
 ### Recently built
 🔧 **[Lidar_viz_module](https://github.com/SandraKanna/Lidar_viz_module)**: visualization layer for a LiDAR-based truck-loading optimization tool, built for Logistical (Tokyo).
