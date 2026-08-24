@@ -6,7 +6,7 @@ After 10+ years in product and B2B marketing for tech industries, I decided to c
 
 ---
 ### Currently working on
-🔧 **[cpp-pipeline-engine](https://github.com/SandraKanna/cpp-pipeline-engine)**: building a modular C++20 library for data pipelines, built portfolio-first around software architecture: fluent builder API, CMake with namespaced targets, CI from the first commit. Data model (ADR-001 through ADR-004) accepted and implemented with unit tests; acquisition, delimitation, parsing, and the orchestrating engine built and tested. Now extending toward serialization and delivery.
+🔧 **[cpp-pipeline-engine](https://github.com/SandraKanna/cpp-pipeline-engine)**: building a modular C++20 library for data pipelines, built portfolio-first around software architecture: fluent builder API, CMake with namespaced targets, CI from the first commit. Data, execution, and error models decided and implemented with unit tests; acquisition, delimitation, parsing, and the orchestrating engine built and tested. Now extending toward serialization and delivery.
 
 **Current stack**: C++20 - CMake - GitHub Actions - GoogleTest + GMock - Sanitizers - Clang-format + Clang-tidy
 
